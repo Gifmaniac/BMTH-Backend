@@ -1,0 +1,82 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio files
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider IDE files
+.idea/
+*.iml
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+*.nuspec
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Publish output
+publish/
+out/
+wwwroot/
+
+# Configurations
+appsettings.*.json
+!appsettings.json
+
+# Database files
+*.mdf
+*.ldf
+*.sqlite
+*.db
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.log
+*.svclog
+*.pidb
+*.log.json
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Test results
+TestResult*/
+*.trx
+*.coverage
+*.coveragexml
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Entity Framework Migrations snapshot
+Migrations/
+
+# Secrets (user secrets stay local)
+secrets.json
+
+# Node (if you add React/Angular frontend later)
+node_modules/
+npm-debug.log
+yarn-error.log
