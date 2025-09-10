@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Contracts.Enums.Store;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,6 +12,6 @@ namespace APIContracts.DTOs.StoreItems.Common
         public int Id { get; set; }
         public string Name { get; set; }
         public decimal Price { get; set; }
-        public string Type { get; set; }        //TShirts, Jackets, Misc etc.
+        public StoreCategoryType Category { get; set; }        //TShirts, Jackets, Misc etc.
     }
 }

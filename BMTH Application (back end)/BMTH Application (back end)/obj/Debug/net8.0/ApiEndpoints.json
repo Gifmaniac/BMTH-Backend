@@ -1,33 +1,50 @@
 [
   {
-    "ContainingType": "BMTH_Application__back_end_.Controllers.StoreController",
-    "Method": "GetItems",
-    "RelativePath": "store/items",
+    "ContainingType": "BMTH_Application__back_end_.Controllers.Store.Common.StoreController",
+    "Method": "GetStoreCategories",
+    "RelativePath": "store",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
+    "Parameters": [
+      {
+        "Name": "gender",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
     "ReturnTypes": []
   },
   {
-    "ContainingType": "Test.Controllers.WeatherForecastController",
-    "Method": "Get",
-    "RelativePath": "WeatherForecast",
+    "ContainingType": "BMTH_Application__back_end_.Controllers.Store.Shirts.TShirtController",
+    "Method": "GetTShirts",
+    "RelativePath": "store/tshirts",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": [
+    "Parameters": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[Test.WeatherForecast, BMTH Application (back end), Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
+        "Name": "gender",
+        "Type": "System.String",
+        "IsRequired": false
       }
     ],
-    "EndpointName": "GetWeatherForecast"
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BMTH_Application__back_end_.Controllers.Store.Shirts.TShirtController",
+    "Method": "GetTShirtById",
+    "RelativePath": "store/tshirts/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

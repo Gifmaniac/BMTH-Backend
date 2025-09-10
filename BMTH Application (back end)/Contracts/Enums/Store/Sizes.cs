@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Contracts.Enums
+namespace Contracts.Enums.Store
 {
     public enum Sizes
     {

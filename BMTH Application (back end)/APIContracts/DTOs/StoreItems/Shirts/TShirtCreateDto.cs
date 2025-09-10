@@ -1,4 +1,4 @@
-﻿using Contracts.Enums;
+﻿using Contracts.Enums.Store;
 
 namespace APIContracts.DTOs.StoreItems.Shirts
 {
