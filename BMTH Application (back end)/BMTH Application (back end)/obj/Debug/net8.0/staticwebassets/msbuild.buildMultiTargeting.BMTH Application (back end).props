@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BMTH Application (back end).props" />
+</Project>

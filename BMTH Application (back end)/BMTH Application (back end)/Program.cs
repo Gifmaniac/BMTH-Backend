@@ -22,4 +22,8 @@ app.UseAuthorization();
 
 app.MapControllers();
 
+app.MapGet("/hello", () => "Hello World");
+app.MapGet("/Home", () => "Welcome to the home screen");
+
+
 app.Run();

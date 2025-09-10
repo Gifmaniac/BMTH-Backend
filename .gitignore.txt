@@ -1,87 +1,31 @@
-# Build results (anywhere in repo)
-[Bb]in/
-[Oo]bj/
-[Bb]uild/
-[Ll]og/
-[Ll]ogs/
-*/[Bb]in/
-*/[Oo]bj/
-*/[Ll]og/
-*/[Ll]ogs/
+# Build results
+bin/
+obj/
+out/
 
-# Visual Studio files
-.vs/
-.vscode/
-*.suo
+# User-specific files
 *.user
+*.suo
 *.userosscache
 *.sln.docstates
 
-# Rider IDE files
-.idea/
-*.iml
+# Visual Studio
+.vs/
 
-# NuGet packages
+# IDE stuff
+*.swp
+*.DS_Store
+Thumbs.db
+
+# NuGet
 *.nupkg
 *.snupkg
 packages/
-*.nuspec
+.nuget/
 
-# ASP.NET Scaffolding
-ScaffoldingReadMe.txt
-
-# Publish output
-publish/
-out/
-wwwroot/
-
-# Configurations
-appsettings.*.json
-!appsettings.json
-
-# Database files
-*.mdf
-*.ldf
-*.sqlite
-*.db
-
-# Temporary files
-*.tmp
-*.temp
-*.bak
+# Logs
 *.log
-*.svclog
-*.pidb
-*.log.json
 
-# OS generated files
-.DS_Store
-Thumbs.db
-ehthumbs.db
-desktop.ini
-
-# Test results
-TestResult*/
-*.trx
-*.coverage
-*.coveragexml
-
-# Resharper
-_ReSharper*/
-*.[Rr]e[Ss]harper
-*.DotSettings.user
-
-# JetBrains Rider
-.idea/
-*.sln.iml
-
-# Entity Framework Migrations snapshot
-Migrations/
-
-# Secrets (user secrets stay local)
-secrets.json
-
-# Node (if you add React/Angular frontend later)
-node_modules/
-npm-debug.log
-yarn-error.log
+# Secrets
+*.env
+appsettings.Development.json
