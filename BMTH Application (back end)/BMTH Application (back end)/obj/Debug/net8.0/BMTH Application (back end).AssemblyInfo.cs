@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BMTH Application (back end)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c145653651bdd2596cd8188f53de735eab02365b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43eb74a8743639698abf13dfc6d37a10206e2452")]
 [assembly: System.Reflection.AssemblyProductAttribute("BMTH Application (back end)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BMTH Application (back end)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
