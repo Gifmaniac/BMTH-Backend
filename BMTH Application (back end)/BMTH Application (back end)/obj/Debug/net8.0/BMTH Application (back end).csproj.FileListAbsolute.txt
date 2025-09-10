@@ -42,3 +42,7 @@ C:\Users\wvdb\Documents\GitHub\BMTH-Backend\BMTH Application (back end)\BMTH App
 C:\Users\wvdb\Documents\GitHub\BMTH-Backend\BMTH Application (back end)\BMTH Application (back end)\obj\Debug\net8.0\BMTH Application (back end).pdb
 C:\Users\wvdb\Documents\GitHub\BMTH-Backend\BMTH Application (back end)\BMTH Application (back end)\obj\Debug\net8.0\BMTH Application (back end).genruntimeconfig.cache
 C:\Users\wvdb\Documents\GitHub\BMTH-Backend\BMTH Application (back end)\BMTH Application (back end)\obj\Debug\net8.0\ref\BMTH Application (back end).dll
+C:\Users\wvdb\Documents\GitHub\BMTH-Backend\BMTH Application (back end)\BMTH Application (back end)\bin\Debug\net8.0\APIContracts.dll
+C:\Users\wvdb\Documents\GitHub\BMTH-Backend\BMTH Application (back end)\BMTH Application (back end)\bin\Debug\net8.0\Contracts.dll
+C:\Users\wvdb\Documents\GitHub\BMTH-Backend\BMTH Application (back end)\BMTH Application (back end)\bin\Debug\net8.0\APIContracts.pdb
+C:\Users\wvdb\Documents\GitHub\BMTH-Backend\BMTH Application (back end)\BMTH Application (back end)\bin\Debug\net8.0\Contracts.pdb
