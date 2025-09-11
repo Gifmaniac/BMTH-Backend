@@ -8,8 +8,8 @@ namespace Contracts.Enums.Store
 {
     public enum Genders
     {
-        Unisex,
         Men,
-        Women
+        Women,
+        Unisex
     }
 }

@@ -26,7 +26,7 @@ namespace BMTH_Application__back_end_.Controllers.Store.Shirts
 
 
         [HttpGet]
-        public IActionResult GetTShirts([FromQuery] string? gender)
+        public IActionResult GetTShirtsResponse([FromQuery] string? gender)
         {
             var overview = _tShirts.Select( s => new StoreItemOverviewDto()
             {
@@ -40,7 +40,7 @@ namespace BMTH_Application__back_end_.Controllers.Store.Shirts
         }
 
         [HttpGet("{id}")]
-        public IActionResult GetTShirtById(int id)
+        public IActionResult GetTShirtByIdResponse(int id)
         {
             var shirt = _tShirts.FirstOrDefault(s => s.Id == id);
             if (shirt == null) 
