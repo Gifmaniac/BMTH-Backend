@@ -1,5 +1,59 @@
-*.cache
-*.props
-*.cache
-*.cache
+BMTH Application (back end)/.gitattributes
+BMTH Application (back end)/APIContracts/obj/Debug/net8.0/APIContracts.AssemblyInfo.cs
+/BMTH Application (back end)
+*.cs
+BMTH Application (back end)/APIContracts/obj/Debug/net8.0/APIContracts.AssemblyInfoInputs.cache
+/BMTH Application (back end)/APIContracts/obj/Debug
+BMTH Application (back end)/APIContracts/obj/Debug/net8.0/APIContracts.AssemblyInfoInputs.cache
+BMTH Application (back end)/BLL/obj/Debug/net8.0/BLL.AssemblyInfo.cs
+BMTH Application (back end)/BLL/obj/Debug/net8.0/BLL.AssemblyInfoInputs.cache
+BMTH Application (back end)/BMTH Application (back end).sln
+BMTH Application (back end)/BMTH Application (back end)/obj/Debug/net8.0/BMTH Application (back end).AssemblyInfoInputs.cache
+BMTH Application (back end)/BMTH Application (back end)/obj/Debug/net8.0/BMTH Application (back end).AssemblyInfo.cs
+BMTH Application (back end)/Contracts/obj/Debug/net8.0/Contracts.AssemblyInfoInputs.cache
 BMTH Application (back end)/DAL/obj/Debug/net8.0/DAL.AssemblyInfo.cs
+BMTH Application (back end)/DAL/obj/Debug/net8.0/DAL.AssemblyInfoInputs.cache
+BMTH Application (back end)/Contracts/obj/Debug/net8.0/Contracts.AssemblyInfo.cs
+BMTH Application (back end)/DAL/obj/Debug/net8.0/DAL.AssemblyInfo.cs
+BMTH Application (back end)/DAL/obj/Debug/net8.0/DAL.AssemblyInfo.cs
+BMTH Application (back end)/BMTH Application (back end).sln
+BMTH Application (back end)/BLL/obj/Debug/net8.0/BLL.AssemblyInfoInputs.cache
+BMTH Application (back end)/BLL/obj/Debug/net8.0/BLL.AssemblyInfo.cs
+BMTH Application (back end)/APIContracts/obj/Debug/net8.0/APIContracts.AssemblyInfoInputs.cache
+BMTH Application (back end)/APIContracts/obj/Debug/net8.0/APIContracts.AssemblyInfo.cs
+*.cs
+*.cs
+*.cache
+BMTH Application (back end)/APIContracts/obj/Debug/net8.0/APIContracts.AssemblyInfo.cs
+BMTH Application (back end)/APIContracts/obj/Debug/net8.0/APIContracts.AssemblyInfoInputs.cache
+BMTH Application (back end)/BLL/BLL.csproj
+BMTH Application (back end)/BLL/obj/Debug/net8.0/BLL.AssemblyInfo.cs
+BMTH Application (back end)/BLL/obj/Debug/net8.0/BLL.AssemblyInfoInputs.cache
+BMTH Application (back end)/BMTH Application (back end)/Controllers/Store/Shirts/TShirtController.cs
+BMTH Application (back end)/Contracts/Enums/Store/Gender.cs
+BMTH Application (back end)/Contracts/obj/Debug/net8.0/Contracts.AssemblyInfo.cs
+BMTH Application (back end)/Contracts/obj/Debug/net8.0/Contracts.AssemblyInfoInputs.cache
+BMTH Application (back end)/DAL/obj/Debug/net8.0/DAL.AssemblyInfo.cs
+BMTH Application (back end)/DAL/obj/Debug/net8.0/DAL.AssemblyInfoInputs.cache
+*.cs
+BMTH Application (back end)/APIContracts/obj/Debug/net8.0/APIContracts.AssemblyInfo.cs
+BMTH Application (back end)/APIContracts/obj/Debug/net8.0/APIContracts.AssemblyInfoInputs.cache
+BMTH Application (back end)/BLL/BLL.csproj
+BMTH Application (back end)/BLL/Class1.cs
+BMTH Application (back end)/BLL/obj/BLL.csproj.nuget.dgspec.json
+BMTH Application (back end)/BLL/obj/BLL.csproj.nuget.g.props
+BMTH Application (back end)/BLL/obj/BLL.csproj.nuget.g.targets
+BMTH Application (back end)/BLL/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+BMTH Application (back end)/BLL/obj/Debug/net8.0/BLL.AssemblyInfo.cs
+BMTH Application (back end)/BLL/obj/Debug/net8.0/BLL.AssemblyInfoInputs.cache
+BMTH Application (back end)/BLL/obj/Debug/net8.0/BLL.assets.cache
+BMTH Application (back end)/BLL/obj/Debug/net8.0/BLL.GeneratedMSBuildEditorConfig.editorconfig
+BMTH Application (back end)/BLL/obj/Debug/net8.0/BLL.GlobalUsings.g.cs
+BMTH Application (back end)/BLL/obj/project.assets.json
+BMTH Application (back end)/BLL/obj/project.nuget.cache
+BMTH Application (back end)/BMTH Application (back end)/Controllers/Store/Shirts/TShirtController.cs
+BMTH Application (back end)/Contracts/Enums/Store/Gender.cs
+BMTH Application (back end)/Contracts/obj/Debug/net8.0/Contracts.AssemblyInfo.cs
+BMTH Application (back end)/Contracts/obj/Debug/net8.0/Contracts.AssemblyInfoInputs.cache
+BMTH Application (back end)/DAL/obj/Debug/net8.0/DAL.AssemblyInfo.cs
+BMTH Application (back end)/DAL/obj/Debug/net8.0/DAL.AssemblyInfoInputs.cache
