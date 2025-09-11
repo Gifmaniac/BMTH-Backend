@@ -46,3 +46,7 @@ C:\Users\wvdb\Documents\GitHub\BMTH-Backend\BMTH Application (back end)\BMTH App
 C:\Users\wvdb\Documents\GitHub\BMTH-Backend\BMTH Application (back end)\BMTH Application (back end)\bin\Debug\net8.0\Contracts.dll
 C:\Users\wvdb\Documents\GitHub\BMTH-Backend\BMTH Application (back end)\BMTH Application (back end)\bin\Debug\net8.0\APIContracts.pdb
 C:\Users\wvdb\Documents\GitHub\BMTH-Backend\BMTH Application (back end)\BMTH Application (back end)\bin\Debug\net8.0\Contracts.pdb
+C:\Users\wvdb\Documents\GitHub\BMTH-Backend\BMTH Application (back end)\BMTH Application (back end)\bin\Debug\net8.0\BMTH Application (back end).staticwebassets.endpoints.json
+C:\Users\wvdb\Documents\GitHub\BMTH-Backend\BMTH Application (back end)\BMTH Application (back end)\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\wvdb\Documents\GitHub\BMTH-Backend\BMTH Application (back end)\BMTH Application (back end)\obj\Debug\net8.0\staticwebassets\msbuild.BMTH Application (back end).Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\wvdb\Documents\GitHub\BMTH-Backend\BMTH Application (back end)\BMTH Application (back end)\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
